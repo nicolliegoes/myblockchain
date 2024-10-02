@@ -21,7 +21,8 @@
 
 **Análise Crítica**: O artigo é claro e bem fundamentado, com exemplos práticos de como o Blockchain pode ser aplicado. No entanto, faltou uma discussão mais profunda sobre os impactos ambientais da mineração. A escalabilidade ainda é uma questão aberta, mas os autores sugerem soluções interessantes, como Proof of Stake (PoS).
 
-**Conclusão do Grupo**: O Blockchain representa uma revolução na segurança digital, com aplicações promissoras. Contudo, questões como consumo de energia e regulamentação ainda precisam ser resolvidas para garantir a adoção em massa. Acreditamos que a tecnologia irá impactar áreas como logística, saúde e votações eletrônicas de maneira positiva.
+**Conclusão**: O Blockchain representa uma revolução na segurança digital, com aplicações promissoras. Contudo, questões como consumo de energia e regulamentação ainda precisam ser resolvidas para garantir a adoção em massa. Acreditamos que a tecnologia irá impactar áreas como logística, saúde e votações eletrônicas de maneira positiva.
 
+**Opinião pessoal**:
 
 # myblockchain
