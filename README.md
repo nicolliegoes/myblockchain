@@ -1,7 +1,7 @@
 # Trabalho sobre Blockchain - Aula de Segurança da Informação - Prof. Bruno Zolotareff
 
 ## Artigo Científico
-[Link para o artigo]
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0258995
 
 ## Membros do Grupo
 - Nicollie Machtura Goes - www.linkedin.com/in/nicollie-goes-02bb7321b
