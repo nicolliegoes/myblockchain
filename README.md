@@ -9,8 +9,7 @@
 ## Professor
 - Prof.Bruno Zolotareff
 
-
-**Título**: Uma olhada no futuro da tecnologia blockchain.
+## Título: Uma olhada no futuro da tecnologia blockchain.
 
 **Autores**: Daniel Levis, Francisco Fontana, Elisa Ughetto.
 
