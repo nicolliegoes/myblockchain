@@ -31,21 +31,19 @@ O blockchain é uma tecnologia de registro descentralizado que permite a transfe
 
 **Blocos:** O blockchain é composto por uma série de blocos, cada um contendo:
 
-Dados: Informações sobre a transação (por exemplo, quem enviou e quem recebeu).
+**Dados:** Informações sobre a transação (por exemplo, quem enviou e quem recebeu).
 
-Hash: Uma função criptográfica que gera um código único para o bloco, garantindo que as informações não sejam alteradas.
+**Hash:** Uma função criptográfica que gera um código único para o bloco, garantindo que as informações não sejam alteradas.
 
-Hash do Bloco Anterior: Isso conecta o bloco ao anterior, formando uma cadeia.
+**Hash do Bloco Anterior:** Isso conecta o bloco ao anterior, formando uma cadeia.
 
-Rede Descentralizada: Em vez de um único servidor, o blockchain opera em uma rede de computadores (nós). 
+**Rede Descentralizada:** Em vez de um único servidor, o blockchain opera em uma rede de computadores (nós). Cada nó possui uma cópia do blockchain, o que aumenta a segurança e a transparência.
 
-Cada nó possui uma cópia do blockchain, o que aumenta a segurança e a transparência.
+**Validação:** Quando uma nova transação é iniciada, ela deve ser validada pela rede. Isso geralmente envolve um processo chamado "mineração", onde os nós competem para resolver um problema matemático. O primeiro a resolver o problema adiciona o bloco à cadeia.
 
-Validação: Quando uma nova transação é iniciada, ela deve ser validada pela rede. Isso geralmente envolve um processo chamado "mineração", onde os nós competem para resolver um problema matemático. O primeiro a resolver o problema adiciona o bloco à cadeia.
+**Imutabilidade:** Uma vez que um bloco é adicionado ao blockchain, ele não pode ser alterado sem modificar todos os blocos subsequentes. Isso torna o sistema altamente seguro contra fraudes.
 
-Imutabilidade: Uma vez que um bloco é adicionado ao blockchain, ele não pode ser alterado sem modificar todos os blocos subsequentes. Isso torna o sistema altamente seguro contra fraudes.
-
-Transparência: Todos os participantes da rede podem ver as transações, o que promove a confiança. Apesar disso, as identidades dos usuários são protegidas por criptografia.
+**Transparência:** Todos os participantes da rede podem ver as transações, o que promove a confiança. Apesar disso, as identidades dos usuários são protegidas por criptografia.
 
 **Exemplo Prático**
 Imagine o uso do blockchain em transações financeiras. Ao invés de um banco centralizado processar e verificar transações, o blockchain permite que cada transação seja validada por múltiplos participantes da rede. Isso não apenas acelera o processo, mas também reduz custos e aumenta a segurança.
