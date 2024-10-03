@@ -25,6 +25,29 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0258995
 
 **Conclusão**: A blockchain tem o potencial de remodelar diversos setores, trazendo mais transparência e eficiência. O artigo conclui que, para que o potencial completo do blockchain seja realizado, será necessária uma próxima cooperação entre governos e indústrias para lidar com questões regulatórias e desafios tecnológicos. O grupo que analisou o artigo acredita que o blockchain ainda enfrenta barreiras importantes, mas com o avanço das pesquisas e regulamentações incluídas, ela pode ser uma das tecnologias mais disruptivas do século XXI.
 
+## Como Funciona o Blockchain
 
+O blockchain é uma tecnologia de registro descentralizado que permite a transferência de dados e valores de forma segura e transparente. Aqui estão os principais componentes e como eles funcionam:
+
+**Blocos:** O blockchain é composto por uma série de blocos, cada um contendo:
+
+Dados: Informações sobre a transação (por exemplo, quem enviou e quem recebeu).
+
+Hash: Uma função criptográfica que gera um código único para o bloco, garantindo que as informações não sejam alteradas.
+
+Hash do Bloco Anterior: Isso conecta o bloco ao anterior, formando uma cadeia.
+
+Rede Descentralizada: Em vez de um único servidor, o blockchain opera em uma rede de computadores (nós). 
+
+Cada nó possui uma cópia do blockchain, o que aumenta a segurança e a transparência.
+
+Validação: Quando uma nova transação é iniciada, ela deve ser validada pela rede. Isso geralmente envolve um processo chamado "mineração", onde os nós competem para resolver um problema matemático. O primeiro a resolver o problema adiciona o bloco à cadeia.
+
+Imutabilidade: Uma vez que um bloco é adicionado ao blockchain, ele não pode ser alterado sem modificar todos os blocos subsequentes. Isso torna o sistema altamente seguro contra fraudes.
+
+Transparência: Todos os participantes da rede podem ver as transações, o que promove a confiança. Apesar disso, as identidades dos usuários são protegidas por criptografia.
+
+**Exemplo Prático**
+Imagine o uso do blockchain em transações financeiras. Ao invés de um banco centralizado processar e verificar transações, o blockchain permite que cada transação seja validada por múltiplos participantes da rede. Isso não apenas acelera o processo, mas também reduz custos e aumenta a segurança.
 
 # myblockchain
