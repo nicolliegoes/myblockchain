@@ -7,7 +7,7 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0258995
 - Nicollie Machtura Goes - www.linkedin.com/in/nicollie-goes-02bb7321b
 
 ## Professor
-- Prof.Bruno Zolotareff
+- Prof.Bruno Zolotareff dos Santos
 
 ## Título: Uma olhada no futuro da tecnologia blockchain.
 
